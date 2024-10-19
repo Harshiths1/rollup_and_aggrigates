@@ -19,6 +19,8 @@ This is a Next.js-based weather monitoring application that allows users to chec
 3. Implemented visualizations:
    ![image](https://github.com/user-attachments/assets/ea484fce-2a47-4952-b947-283f94281ad3)
 
+4. Demonstration Screenshot
+   ![image](https://github.com/user-attachments/assets/a5a9ec1d-fff6-492c-8376-ac30b5474f90)
 
 ## Technologies Used
 - Next.js
